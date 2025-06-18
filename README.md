@@ -24,18 +24,18 @@ The `sf_traffic_monitor` component subscribes to the `/all_vehicles_position` to
 
 ## Dependency
 
-1. [sf_msgs](https://git.hs-coburg.de/SpotFinder/sf_msgs.git).
+1. [sf_msgs](https://github.com/Team-SpotFinder/sf_msgs.git).
 
-2. [sf_v2x_server](https://git.hs-coburg.de/SpotFinder/sf_v2x_server.git).
+2. [sf_v2x_server](https://github.com/Team-SpotFinder/sf_v2x_server.git).
 
-3. [sf_transmit](https://git.hs-coburg.de/SpotFinder/sf_transmit.git). 
+3. [sf_transmit](https://github.com/Team-SpotFinder/sf_transmit.git). 
 
 ## Installation
-This repository needs to be cloned, built and sourced. It needs to be cloned to `/src` folder of the ROS2 workspace. This can be done by following the instruction provided in the [sf_master](https://git.hs-coburg.de/SpotFinder/sf_master.git).
+This repository needs to be cloned, built and sourced. It needs to be cloned to `/src` folder of the ROS2 workspace. This can be done by following the instruction provided in the [sf_master](https://github.com/Team-SpotFinder/sf_master.git).
 
 ## Run Steps
 
-follow run steps in the [sf_master](https://git.hs-coburg.de/SpotFinder/sf_master.git)
+follow run steps in the [sf_master](https://github.com/Team-SpotFinder/sf_master.git)
 
 1. Follow the below command to run the dependent component `cam_server`.
 
